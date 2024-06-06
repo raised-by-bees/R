@@ -1,0 +1,5 @@
+> str(timedata)
+ Time-Series [1:8301, 1] from 2025 to 2083: 0.303 0.293 0.302 0.307 0.291 ...
+ - attr(*, "dimnames")=List of 2
+  ..$ : NULL
+  ..$ : chr "bwxts"
